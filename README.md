@@ -1,3 +1,8 @@
+Netflix UI clone using firebase 
+ Implemented Firebase Authentication that allows users to sign up, sign in, and log out
+ Implemented Firestore database that allows users to select their favorite shows and deselect them
+https://netflix-react-app-e1b74.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
